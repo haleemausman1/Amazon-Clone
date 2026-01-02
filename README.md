@@ -54,14 +54,6 @@ This project helped strengthen my understanding of:
 * UI replication from a real-world website
 * Organizing frontend project files
 
-## Future Improvements
-
-* Add JavaScript functionality
-* Implement a shopping cart
-* Improve mobile responsiveness
-* Add product filtering and search
-* Integrate a backend for dynamic data
-
 ## Author
 
 **Haleema Usman**
