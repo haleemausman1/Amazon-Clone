@@ -46,8 +46,6 @@ Amazon-Clone/
 
 ## Learning Outcomes
 
-This project helped strengthen my understanding of:
-
 * HTML page structure
 * CSS Flexbox and Grid layouts
 * Responsive web design
