@@ -25,6 +25,12 @@ This project focuses on recreating the layout and UI structure of Amazon’s hom
 
 ---
 
+## Live Demo
+
+https://haleemausman1.github.io/Amazon-Clone/
+
+---
+
 ## Note
 
 This is a **frontend-only educational project**.  
